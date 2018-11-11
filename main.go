@@ -8,5 +8,5 @@ func main() {
 }
 
 func newCard() string {
-	return "ficarde of diamonds"
+	return "five of diamonds"
 }
